@@ -1,5 +1,5 @@
 package vamsi;
-oublic class passingarraytomethods{
+public class passingarraytomethods{
 public static void main(String[] args){
 int myarray[]={1,2,3,4,5,6,7,8,9,10};
 printarry(myarray);
