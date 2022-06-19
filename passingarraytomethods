@@ -2,6 +2,7 @@ package vamsi;
 public class passingarraytomethods{
 public static void main(String[] args){
 int myarray[]={1,2,3,4,5,6,7,8,9,10};
+//TO PASS THE ARRAY TO AN METHOD WE SHOULD SIMPLY SPECIFY THE NAME OF THE ARRAY THAT WE ARE DECIDED TO PASS TO THE METHOD
 printarry(myarray);
 }
 public static void printarray(int[] arr){
