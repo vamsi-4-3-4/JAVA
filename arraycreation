@@ -1,5 +1,10 @@
 public class arraycreation{
 public static void main(String[] args){
+//ARRAY DECLATION CAN BE DONE WITH THE FOLLOWING SYNTAX
+//datatype pairofsquare brackets arrayname
+//my datatype for the array is int here and name of the array is arr
+//we can access and store the data elements with the index of the array
+//if we want to do any operations on the array we need specify the index in the square brackets
 int[] arr;
 arr=new int[3];
 arr[0]=1;
