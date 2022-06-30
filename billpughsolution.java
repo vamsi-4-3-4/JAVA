@@ -24,9 +24,9 @@ public class AtomicNumbers{
 public class Program {
 
   public static void main(String[] args) {
-   
-  AtomicNumbers.setNumber();
-   
+   AtomicNumbers a=AtomicNumbers.setNumber();
+   System.out.println(a);
+
   }
 }
 
