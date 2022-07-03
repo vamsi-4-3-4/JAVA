@@ -75,7 +75,6 @@ method returns the cipher object with that cipher object we can do required encr
         //SPECIFY THE ALGORITHM AS INSTANCE
         
         Cipher algorithm=Cipher.getInstance("RSA/ECB/PKCS1Padding");
-        
         System.out.println("ALGORITHM");
         System.out.println(algorithm);
         //CHOOSE THE MODE ENCRYPTION AND THE DECRYPTION
